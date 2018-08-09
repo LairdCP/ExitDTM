@@ -22,7 +22,7 @@ Download and open the zip file, extract the files to a folder on your computer a
 
 Download the tar file and extract it's contents to a location on your computer, this can be done using a graphical utility or from the command line using:
 
-	tar xf ExitDTM_<version>.tar.gz ~/
+	tar xf ExitDTM_<version>.tar.gz -C ~/
 
 Where '\~/' is the location of where you want it extracted to, '\~/' will extract to the home directory of your local user account). To launch ExitDTM, either double click on the executable and click the 'run' button (if asked), or execute it from a terminal as so:
 
